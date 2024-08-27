@@ -20,6 +20,7 @@ def SonAmigos(x, y):
 resultado = SonAmigos(382, 192)
 print(f"Resultado: {resultado}\n")
 """
+
 """
 def imprimirNumeros(n):
    for i in range(1 , n + 1):
@@ -35,5 +36,32 @@ def imprimirNumeros(n):
 imprimirNumeros(20)
 """
 
-def Digitos(n):
-    for i 
+"""
+def ContarDigitos(numero):
+    numero = abs(numero)
+    contador= 0
+    if numero == 0:
+        return 1
+    while numero > 0:
+        numero //= 10
+        contador += 1
+    return contador
+print (ContarDigitos(675839))
+"""
+
+"""
+def SumarNumeros(n):
+    suma = sum(range(1, n + 1))
+    print(suma)
+
+SumarNumeros(89)
+"""
+"""
+def OrdenArray(arr):
+    for i in range(len(arr) - 1):
+        if arr[i] > arr[i + 1]:
+            return False
+    return True
+
+print(OrdenArray([1,3,5]))
+"""
