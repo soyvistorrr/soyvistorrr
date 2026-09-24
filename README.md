@@ -3,11 +3,12 @@
 # Hi there! 👋 I'm Victor Hernández
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00B7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student+%40+USB;Full-Stack+Architect+%26+Frontend+Lead;Ayuda+USB+%7C+Next.js+%7C+FastAPI+%7C+Supabase;PostgreSQL+%2B+pgvector+%7C+Docker+%7C+Testing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00B7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+%40+USB+(10th+Term);Full-Stack+Software+Engineer;Frontend+%7C+Backend+%7C+Databases;Creative+Problem+Solver+%26+System+Architect" alt="Typing Animation" />
 </a>
 
 <p align="center">
-  <em>Computer Engineering student at Universidad Simón Bolívar (USB). Specializing in architecting mission-critical full-stack applications, scalable database systems, real-time logistics platforms, and intuitive user experiences.</em>
+  <b>Computer Engineering Student (10th Term / Final Stage) at Universidad Simón Bolívar (USB).</b><br>
+  <em>Versatile Full-Stack Engineer with broad experience across modern frontend, scalable backends, database architectures, and creative algorithmic problem-solving.</em>
 </p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victormhernandeza) &nbsp;
@@ -20,88 +21,76 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 **Education:** Pursuing a B.S. in Computer Engineering (8th term) at [Universidad Simón Bolívar (USB)](https://www.linkedin.com/school/universidad-simon-bolivar/), with a solid background in software architecture, algorithms, and distributed databases.
-- 💻 **Flagship Expertise:** Lead developer of production platforms deployed for institutional and humanitarian impact, combining real-time cloud backends (Supabase/PostgreSQL) and reactive frontends.
-- 🧪 **Engineering Standards:** Clean, modular architectures, end-to-end testing with **Playwright**, unit testing with **Jest**, automated audit suites, and containerization with **Docker**.
-- 🤝 **Collaboration & Leadership:** Proven experience leading frontend architecture, coordinating sprints, and delivering mission-critical solutions in active collaboration with institutional stakeholders (AEUSB, FCEUSB).
-- 💬 **Let's discuss:** Next.js architecture, real-time logistics engines, PostgreSQL & vector search (`pgvector`), Supabase RLS, and scalable web systems.
+- 🎓 **Education & Background:** Completing my 10th term in Computer Engineering at [Universidad Simón Bolívar (USB)](https://www.linkedin.com/school/universidad-simon-bolivar/), near graduation.
+- 💡 **Full-Stack Profile:** Solid hands-on experience covering the entire product lifecycle: intuitive, reactive frontend interfaces, resilient backend APIs, and efficient database architectures.
+- 🧠 **Problem-Solving & Ideation:** Strong organizational mindset, high adaptability to learn and integrate new technologies rapidly, and creative approach to solving complex engineering challenges.
+- 🧪 **Engineering Standards:** Modular architectures, clean code practices, end-to-end testing with **Playwright**, unit testing with **Jest**, and containerization with **Docker**.
+- 💬 **Let's connect:** Discussing full-stack architectures, modern web frameworks, database design, and high-impact software solutions.
 
 ---
 
-### 🛠️ Tech Stack
+### 🔬 Core Computer Science Disciplines & Areas of Focus
+
+Across my academic journey and production software projects at USB, I have developed and applied deep foundations in:
+
+| Discipline | Key Concepts & Practical Application |
+| :--- | :--- |
+| **Full-Stack & Web Engineering** | Component-driven architecture, reactive state management (Zustand), SSR/SSG with Next.js, and RESTful APIs. |
+| **Database Systems & Vector Storage** | Relational data modeling (PostgreSQL), Cloud DBs (Supabase), indexing, and vector similarity search (`pgvector`). |
+| **Algorithms & Complexity** | Graph theory (Adjacency lists, shortest paths), Dynamic Programming, Greedy search, and algorithmic efficiency analysis. |
+| **Operating Systems & Systems Programming** | POSIX system calls, memory management, process concurrency, and low-level Linux environments in C. |
+| **Compilers & Language Theory** | Lexical analysis, regular languages, tokenizers, and AST processing with Python and PLY. |
+| **Applied AI & Computer Vision** | Deep learning object detection with YOLOv8, Roboflow dataset curation, and Model-as-a-Service (MaaS) APIs. |
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
 **Languages**  
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,kotlin,c,postgres,html,css)](https://skillicons.dev)
 
-**Frontend & UI Architecture**  
+**Frontend & UI Development**  
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux)](https://skillicons.dev)
 
-**Backend, Databases & Cloud**  
+**Backend, Cloud & Databases**  
 [![Backend](https://skillicons.dev/icons?i=supabase,fastapi,django,postgres,docker,vercel)](https://skillicons.dev)
 
-**Testing, Tools & DevOps**  
+**DevOps & Workflow Tools**  
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,linux,gcp)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Featured Software Projects
 
-#### 🤝 [Ayuda USB — Plataforma de Ayuda Humanitaria, Censo y Logística](https://github.com/soyvistorrr/ayuda-usb) *(Flagship Project — Production)*
+#### 🤝 [Ayuda USB — Plataforma de Ayuda Humanitaria, Censo y Logística](https://github.com/soyvistorrr/ayuda-usb) *(Production Platform)*
 > **Role: Lead Architect & Full-Stack Developer**  
-> Comprehensive cloud-native web platform deployed to manage humanitarian aid, community census, donations, and warehouse logistics for the Universidad Simón Bolívar community (Sartenejas and Litoral campuses), in partnership with the Alumni Association (AEUSB) and Student Federation (FCEUSB).
-- **Core Stack:** JavaScript (ES6+ Modular Architecture), Supabase (PostgreSQL, Realtime WebSockets, Row Level Security), Vercel Serverless Functions, Responsive CSS3, Automated Audit Suite.
-- **Key Engineering Highlights:**
-  - **Warehouse & Distribution Logistics Engine (`logistica.js`):** Built a 140+ KB reactive state engine managing multi-point inventory, humanitarian relief triage, delivery traceability, and evidentiary drive verification.
-  - **Adaptive Community Census:** Comprehensive intake module classifying community members (*Students, Faculty, Alumni, Staff, Workers*) with adaptive vulnerability scoring.
-  - **Multi-Currency Donation & Urgency Triage:** Secure multi-currency contribution portal supporting one-time and recurring donations, paired with a real-time emergency alert monitor.
-  - **Quality Assurance & Audit:** Engineered an automated 15-point audit testing suite (`run_tests.js`) verifying database integrity, session isolation, and evidence safeguarding.
+> Mission-critical web platform deployed to manage humanitarian aid, community census, donations, and warehouse distribution logistics for the USB community (Sartenejas and Litoral), in collaboration with AEUSB and FCEUSB.
+- **Full-Stack Stack:** JavaScript (ES6+ Modular), Supabase (PostgreSQL, Realtime WebSockets, RLS), Vercel Serverless Functions, CSS3 UI, Automated Audit Suite.
+- **Logistics Engine:** Engineered a 140+ KB reactive state machine managing multi-point warehouse inventory, triage prioritization, delivery tracking, and evidentiary verification.
+- **Community Modules:** Adaptive multi-role census (Students, Faculty, Staff, Workers), multi-currency donation gateway, and continuous audit test suite.
 
 #### 🏍️ [Moto Candela Platform & Admin](https://github.com/soyvistorrr) *(Team Collaboration — GitLab)*
 > **Role: Frontend Lead & UI/UX Engineer**  
-> Enterprise-grade e-commerce and administrative dashboard platform optimizing product cataloging, multi-warehouse inventory, and customer transactions.
-- **Frontend Stack:** Built with **Next.js 13+, TypeScript, Tailwind CSS, Radix UI / shadcn/ui, Zustand, and TanStack Query**.
-- **Quality Assurance:** Comprehensive testing pipeline featuring **Playwright** for end-to-end user journeys and **Jest / Testing Library** for component unit testing.
-- **Cross-Team Delivery:** Led frontend architecture and sprint deliverables, orchestrating API consumption with the backend team (Django REST Framework / PostgreSQL / Docker on GCP).
+> Comprehensive e-commerce and administrative dashboard platform for inventory, orders, and customer management.
+- **Frontend Stack:** Next.js 13+, TypeScript, Tailwind CSS, Radix UI / shadcn/ui, Zustand, and TanStack Query.
+- **Automated Testing:** End-to-end testing with **Playwright** and component unit tests with **Jest**.
+- **Team Integration:** Led frontend sprint deliveries, consuming a containerized Django REST / PostgreSQL backend on GCP.
 
-#### 👁️ [SecureVision API — PostgreSQL & Vector Similarity Search](https://github.com/soyvistorrr/securevision-api) *(Advanced Database Engineering — USB)*
+#### 👁️ [SecureVision API — PostgreSQL & Vector Similarity Search](https://github.com/soyvistorrr/securevision-api) *(Database & Backend Engineering)*
 > **Role: Backend & Database Developer**  
-> High-throughput surveillance intelligence RESTful API delivering real-time camera telemetry, alerts analytics, and semantic vector similarity search.
-- **Core Technologies:** Python, FastAPI, PostgreSQL, `pgvector`, Pydantic v2, Alembic, Docker Compose.
-- **Engineering Highlights:**
-  - Integrated the **`pgvector`** extension to perform fast cosine distance similarity queries over 512-dimensional object embeddings.
-  - Developed analytical aggregation endpoints for camera traffic patterns and temporal alert summaries.
-  - Automated schema migrations via **Alembic**, containerized the environment with **Docker Compose**, and built a transactional CSV ingestion pipeline.
+> RESTful API for video surveillance telemetry, real-time alerts analytics, and vector-based semantic search.
+- **Stack:** Python, FastAPI, PostgreSQL, `pgvector`, Pydantic v2, Alembic, Docker Compose.
+- **Highlights:** Cosine distance search over 512-D object embeddings with `pgvector`, analytical aggregation endpoints, and transactional CSV data ingestion pipeline.
 
 #### 🗳️ [Sistema de Votaciones Estudiantiles USB (2025)](https://github.com/soyvistorrr/elections-integration) *(Production University System)*
 > **Role: Core Developer & Security Refactoring**  
-> Automated, real-time voting and tallying system for the Federation of Student Centers (FCEUSB).
-- **Core Technologies:** TypeScript, Google Workspace Engine, Secure Electoral Roll Verification.
-- **Key Features:** Real-time identity verification against official voter rolls, anti-fraud single-vote enforcement, multi-campus support, and career/cycle intelligent voting filters.
-
----
-
-### 📚 Academic Coursework & Foundations (USB)
-
-- **[Algorithms & Data Structures III](https://github.com/soyvistorrr/Algoritmos-3):** Graph theory implementations (Adjacency lists, shortest paths, 3D Dijkstra water flooding with PriorityQueue), and Backtracking search in Kotlin.
-- **[Safebox](https://github.com/soyvistorrr/safebox):** Systems programming in C exploring POSIX primitives, memory management, and file systems.
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyvistorrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Victor's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyvistorrr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soyvistorrr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+> Real-time automated voting and counting system for university-wide student elections.
+- **Stack:** TypeScript, Google Workspace Engine, Electoral Roll Verification.
+- **Highlights:** Live anti-fraud roll validation, single-vote locking mechanism, multi-campus support, and career/cycle ballot filtering.
 
 ---
 
