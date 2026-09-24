@@ -94,6 +94,16 @@ Across my academic journey and production software projects at USB, I have devel
 
 ---
 
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=soyvistorrr&theme=github_dark&hide_border=true&ring=F060F0&fire=F060F0&dates=8B949E&stroke=30363D" height="170" alt="GitHub Streak" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=soyvistorrr&theme=github_dark&hide_border=true&layout=compact&title_color=F0F6FC&text_color=8B949E" height="170" alt="Top Languages" />
+</div>
+
+---
+
 <div align="center">
   📫 Feel free to reach out: <b><a href="mailto:victormhernandeza3009@gmail.com">victormhernandeza3009@gmail.com</a></b>
 </div>
