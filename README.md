@@ -92,6 +92,12 @@ Across my academic journey and production software projects at USB, I have devel
 - **Stack:** TypeScript, Google Workspace Engine, Electoral Roll Verification.
 - **Highlights:** Live anti-fraud roll validation, single-vote locking mechanism, multi-campus support, and career/cycle ballot filtering.
 
+#### 🔒 [SafeBox — POSIX Secure Storage Daemon & Client Shell](https://github.com/soyvistorrr/safebox) *(Systems Programming in C)*
+> **Role: Systems & Operating Systems Developer**  
+> Background file vault daemon and interactive REPL shell communicating over UNIX Domain Sockets.
+- **Stack:** C99, POSIX APIs, UNIX Domain Sockets, `SCM_RIGHTS`, Linux.
+- **Highlights:** Zero-copy file descriptor passing via socket ancillary messages, atomic concurrency logging under `PIPE_BUF`, `djb2` hash authentication, and custom binary header packaging.
+
 ---
 
 ### 📈 GitHub Analytics
