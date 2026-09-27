@@ -11,7 +11,7 @@
   <em>Versatile Full-Stack Engineer with broad experience across modern frontend, scalable backends, database architectures, and creative algorithmic problem-solving.</em>
 </p>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victormhernandeza) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soyvistorr3009) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:victormhernandeza3009@gmail.com?subject=Hello%20Victor,%20from%20GitHub) &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/soyvistorrr)
 
